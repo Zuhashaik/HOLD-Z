@@ -1,4 +1,4 @@
-# HOLD-Z
+![Hold-Z-Framework](https://github.com/Zuhashaik/HOLD-Z/assets/104340147/076ef3bf-0b67-430b-a6ed-0bfff0075a8f)# HOLD-Z
 ## Overview
 
 This repository contains the proposed work on HOLD-Z from DravidianLangtech-2024@EACL **HOLD-Z**:
@@ -8,9 +8,6 @@ This repository contains the proposed work on HOLD-Z from DravidianLangtech-2024
 
 If you find this repo helpful, please cite the following paper:
 
-<!-- ```bibtex
-} -->
-```
 
 ## Introduction
 Hateful online content is a growing concern, es-
@@ -30,4 +27,4 @@ tized Low-Rank Adaptation (QLoRA) in boost-
 ing performance.
 
 ## Overall Framework
-![Hold-Z-Framework](https://github.com/Zuhashaik/HOLD-Z/assets/104340147/e80c4a2a-e2be-421d-bf2f-89b55d3e2965)
+![Hold-Z-Framework](https://github.com/Zuhashaik/HOLD-Z/assets/104340147/eee248e4-7e33-47fe-8af2-2620e549912e)
