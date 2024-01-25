@@ -1,4 +1,4 @@
-![Hold-Z-Framework](https://github.com/Zuhashaik/HOLD-Z/assets/104340147/076ef3bf-0b67-430b-a6ed-0bfff0075a8f)# HOLD-Z
+# HOLD-Z
 ## Overview
 
 This repository contains the proposed work on HOLD-Z from DravidianLangtech-2024@EACL **HOLD-Z**:
