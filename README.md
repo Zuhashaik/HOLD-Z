@@ -7,7 +7,7 @@ This repository contains the proposed work on HOLD-Z from DravidianLangtech-2024
 
 
 If you find this repo helpful, please cite the following paper:
-
+ https://aclanthology.org/2024.dravidianlangtech-1.22/
 
 ## Introduction
 Hateful online content is a growing concern, es-
